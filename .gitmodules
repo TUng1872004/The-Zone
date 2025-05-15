@@ -1,6 +1,0 @@
-[submodule "theZone"]
-	path = theZone
-	url = https://github.com/kinten108101/theZone2
-[submodule "theZoneEngine"]
-	path = theZoneEngine
-	url = https://github.com/kinten108101/theZoneEngine
